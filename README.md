@@ -6,3 +6,8 @@ I started with task 2 as I had some prior knowledge of Arduino and sensors, the 
 The I got cracking on the first task I first opened the link to that resources provided, after seeing the video I realise that i needed some backstory to it(like i needed prior knowledge for it), so I stated the series form the first video, saw a couple of them understood the syntax, wrote a few trial codes then imported my csv file in it, then ran it, also I changed the value of depth in row 97 assuming it was a typo. To eliminate the random noise i set up an If statement inside the for loop which will check the difference between two consecutive and if it is too wayward then it will take the initial value. so after some test runs my code was ready. 
 
 During these tasks I learnt a lot of new thing like different function of the Arduino IDE and mathplotlib etc.
+
+
+
+
+TINKERCAD LINK: https://www.tinkercad.com/things/cBUKJu5xn2s-seds-task1?sharecode=Cu6hZ8BwQIYvfsLvm2wcDIX9uQV5DV_-D1VTELMjabE
